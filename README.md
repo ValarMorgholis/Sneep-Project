@@ -1,5 +1,5 @@
 # Sneep-Project
-Simple Software Engineering Requrment for a Project
+Simple Software Engineering Requirement for a Project
 
 
 ## Proposal
